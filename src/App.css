@@ -1,5 +1,13 @@
 .gray-box {
-    background: gray;
-    width: 64px;
-    height: 64px;
-  }
+  background: gray;
+  width: 64px;
+  height: 64px;
+}
+
+.react {
+  background: aqua;
+  color: black;
+  font-size: 48px;
+  font-weight: bold;
+  padding: 16px;
+}
